@@ -1,4 +1,4 @@
-baseURL = 'http://droughtland.com'
+baseURL = 'https://staging.droughtland.com'
 languageCode = 'en-us'
 disableHugoGeneratorInject = true
 title = 'Droughtland'
@@ -7,4 +7,3 @@ title = 'Droughtland'
 copyright = "© Copyright 2022 UNCCD"
 metaDescription = "Droughtland Meta"
 metaImage = ""
-# datocms:end
