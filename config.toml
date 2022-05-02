@@ -1,0 +1,10 @@
+baseURL = 'http://droughtland.com'
+languageCode = 'en-us'
+disableHugoGeneratorInject = true
+title = 'Droughtland'
+
+[params]
+copyright = "© Copyright 2022 UNCCD"
+metaDescription = "Droughtland Meta"
+metaImage = ""
+# datocms:end
