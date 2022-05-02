@@ -1,0 +1,27 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Sohne';
+    font-weight: 300;
+    src: url(./assets/fonts/sohne/soehne-web-leicht.woff) format("woff");
+  }
+  @font-face {
+    font-family: 'Sohne';
+    font-weight: 600;
+    src: url(./assets/fonts/sohne/soehne-web-halbfett.woff) format("woff");
+  }
+  @font-face {
+    font-family: 'Sohne';
+    font-weight: 900;
+    src: url(./assets/fonts/sohne/soehne-web-fett.woff) format("woff");
+  }
+  @font-face {
+    font-family: 'Financier';
+    font-weight: 600;
+    src: url(./assets/fonts/financier/financier-display-web-semibold.woff) format("woff");
+  }
+}
