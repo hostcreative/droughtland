@@ -1,0 +1,6 @@
+{{- partial "head.html" . -}}
+<main class="relative">
+  <div class="fixed bg-wave-pattern bg-cover inset-0"></div>
+    {{ block "main" . }}{{ end }}
+</main>
+{{- partial "bottom.html" . -}}
