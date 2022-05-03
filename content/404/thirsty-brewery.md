@@ -1,4 +1,4 @@
-f---
+---
 Title: Thirsty Brewery
 layout: 404
 image: '404-thirsty-brewery.png'

@@ -1,4 +1,4 @@
-f---
+---
 Title: Dry delights
 layout: 404
 image: '404-dry-delights.png'
