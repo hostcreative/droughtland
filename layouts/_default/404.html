@@ -1,13 +1,12 @@
 {{ define "main" }}
 
-  <div class="relative z-40 bg-white-off">
+  <div class="absolute z-40 bg-white-off h-full w-full"  style="background: url(/images/{{ .Params.Image }}) no-repeat bottom; background-size: cover;">
     <div class="max-w-xl mx-auto pt-10 pb-6 text-center z-30">
       <div class="content-html font-display text-2xl pb-4 px-4">
         {{ .Content }}
       </div>
       <a href="/"><button type="button" class="inline whitespace-nowrap transition-all bg-green py-1 px-3 rounded-sm text-sm font-body font-semibold text-white hover:bg-green-lighter">Go back</button></a>
     </div>
-    <img src="/images/{{ .Params.Image }}" class="bottom-0 z-0 w-full" />
   </div>
 
 {{ end }}
