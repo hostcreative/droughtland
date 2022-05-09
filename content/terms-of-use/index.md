@@ -1,5 +1,5 @@
 ---
-layout: Single
+layout: text
 title: Terms of Use
 ---
 
