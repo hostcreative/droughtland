@@ -1,9 +1,9 @@
-baseURL = 'https://staging.droughtland.com'
+baseURL = 'https://staging.droughtland.com/'
 languageCode = 'en-us'
 disableHugoGeneratorInject = true
 title = 'Droughtland'
 
 [params]
 copyright = "© Copyright 2022 UNCCD"
-metaDescription = "Droughtland Meta"
-metaImage = ""
+metaDescription = "“Drought preparedness and mitigation solutions MUST become a priority. We can’t let Droughtland become a reality” #Droughtland"
+metaImage = "/images/open-graph.png"
