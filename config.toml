@@ -1,4 +1,4 @@
-baseURL = 'https://staging.droughtland.com/'
+baseURL = 'https://droughtland.com/'
 languageCode = 'en-us'
 disableHugoGeneratorInject = true
 title = 'Droughtland'
