@@ -40,4 +40,4 @@ to = "https://google.com"
 status = 302
 force = true
 query = {path = ":path"}
-conditions = {Country = ["ES"]}
+conditions = {Country = ["IN", "PK"]}
