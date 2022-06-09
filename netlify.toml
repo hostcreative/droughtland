@@ -35,10 +35,9 @@ to = "/npmjs/"
 status = 200
 
 [[redirects]]
-# Redirect users in India to /in.
-  from = "/"
+  from = "/*"
   to = "https://google.com"
-  status = 301
+  status = 302
   force = true
   query = {path = ":path"}
-  conditions = {Country = ["ES","IN","PK"]}
+  conditions = {Country = ["ES"]}
