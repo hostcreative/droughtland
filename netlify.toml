@@ -33,3 +33,8 @@ HUGO_ENABLEGITINFO = "true"
 from = "/npmjs/*"
 to = "/npmjs/"
 status = 200
+
+[[redirects]]
+# Redirect users in India to /in.
+# There CANNOT be spaces in the last parameter: Country=x,y,z or Language=xx,yy
+/  /in     302  Country=in,pk
