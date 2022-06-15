@@ -60,7 +60,7 @@ module.exports = {
       '12': '512px'
     },
     fontFamily: {
-      body: ['Lato', 'sans-serif'],
+      body: ['Roboto', 'sans-serif'],
       display: ['Playfair Display', 'serif'],
     },
     extend: {

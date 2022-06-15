@@ -28,6 +28,8 @@ body,
 .body-highlight,
 .body-small {
   @apply font-body;
+  font-weight: normal;
+  font-style: normal;
 }
 
 body,
