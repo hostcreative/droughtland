@@ -2,6 +2,8 @@
 Landing page for Droughtland.org
 
 # Installation
+`npm install`
+`hugo server`
 
 # Development Environment
 
